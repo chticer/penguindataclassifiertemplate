@@ -46,6 +46,14 @@ git config --global user.email "github-email-address"
 git clone https://github.com/chticer/penguindataclassifiertemplate
 ```
 
+3. Update remote repository location
+
+Replace **github-repository** with the GitHub repository that was created.
+
+```
+git remote add origin github-repository.git
+```
+
 **Visual Studio Code**
 
 Open the cloned repository (File > Open Folder).
