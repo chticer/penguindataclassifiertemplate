@@ -46,6 +46,10 @@ git config --global user.email "github-email-address"
 git clone https://github.com/chticer/penguindataclassifiertemplate
 ```
 
+```
+cd penguindataclassifiertemplate
+```
+
 3. Update remote repository location
 
 Replace **github-repository-url** with the GitHub repository URL that was created. The following command can also be found when visiting the GitHub repository URL under the "...or push an existing repository from the command line" section.
