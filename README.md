@@ -48,10 +48,10 @@ git clone https://github.com/chticer/penguindataclassifiertemplate
 
 3. Update remote repository location
 
-Replace **github-repository** with the GitHub repository that was created.
+Replace **github-repository-url** with the GitHub repository URL that was created. The following command can also be found when visiting the GitHub repository URL under the "...or push an existing repository from the command line" section.
 
 ```
-git remote add origin github-repository.git
+git remote add origin github-repository-url.git
 ```
 
 **Visual Studio Code**
@@ -101,4 +101,4 @@ The penguins dataset used for training models were provided by Palmer Archipelag
 
 > Gorman KB, Williams TD, Fraser WR (2014) Ecological Sexual Dimorphism and Environmental Variability within a Community of Antarctic Penguins (Genus Pygoscelis). PLoS ONE 9(3): e90081. doi:10.1371/journal.pone.0090081
 
-See the [README](https://github.com/dickoa/penguins/blob/master/README.md) for additional attributions.
+See this [README](https://github.com/dickoa/penguins/blob/master/README.md) for additional attributions.
