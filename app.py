@@ -7,7 +7,7 @@ app = Flask(__name__, static_url_path = "/assets", static_folder = "assets")
 
 model_directory = "" # set the model directory
 
-classes = [ "Adelie", "Chinstrap", "Gentoo" ]
+classes = [ "Adelie", "Gentoo", "Chinstrap" ]
 
 @app. # set the index.html route to /
 def index():
