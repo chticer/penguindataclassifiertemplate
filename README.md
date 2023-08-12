@@ -95,9 +95,9 @@ Create an Azure app service.
 This repository is part of an Azure Machine Learning workshop conducted with students, which was made possible by a grant from the Department of Homeland Security, at The University of Texas Rio Grande Valley on Saturday, August 12, 2023.
 
 **Workshop Leaders**
-- @alfazick (Dr. Askar Nurbekov)
-- @chticer (Mr. Charlie Ticer)
-- @etomai (Dr. Emmett Tomai)
+- [@alfazick](https://github.com/alfazick) (Dr. Askar Nurbekov)
+- [@chticer](https://github.com/chticer) (Mr. Charlie Ticer)
+- [@emmett-tomai](https://github.com/emmett-tomai) (Dr. Emmett Tomai)
 
 We would also like to thank the students for their participation and the IT and department administrative staff and student workers for their help, time, and resources in this workshop.
 
