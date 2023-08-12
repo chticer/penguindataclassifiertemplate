@@ -41,4 +41,4 @@ def predict():
     return ("", class_predicted = , class_image_url = url_for("static", filename = f"{}.jpg")) # render the predict.html webpage with the predicted class and the lowercased file name of the predicted class
 
 if __name__ == "__main__":
-    app.(host = ) # run the Flask app server on IP address 0.0.0.0
+    app.(host = ) # run the Flask app server on IP address 0.0.0.0, add debug = True to enable debugging
