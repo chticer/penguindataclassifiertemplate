@@ -30,7 +30,7 @@ def predict():
 
     ]
 
-    model = tf.keras.models.load_model(os.path.join("models", )) # load the selected model
+    model = tf.keras.models.load_model(os.path.join(model_directory, )) # load the selected model
 
     class_probabilities =  # predict the model with a numpy-based array of the features
 
